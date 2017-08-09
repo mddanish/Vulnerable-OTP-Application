@@ -50,9 +50,15 @@ Skip installation and setup and use the mention link hosted for testing OTP Bypa
 TEST USER CREATED on APPLICATION for testing, or create new user if you want
 
 USERNAME: test
+
 EMAIL: test@test.com
+
 PASSWORD: P@ssw0rd
+
+SCAN the below use Google Authenticator for OTP generation and login and bypass
+
 GOOGLE OTP QR
+
 ![TEST OTP-2FA](https://chart.googleapis.com/chart?chs=200x200&chld=M|0&cht=qr&chl=otpauth%3A%2F%2Ftotp%2Ftest%40test.com%3Fsecret%32REDZU7WZ45Z4OC%26issuer%3DOTP-2FA "TEST OTP-2FA")
 
 DO NOT CRASH THE SEVER OR APPLICATION.
