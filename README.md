@@ -69,7 +69,7 @@ PLAY SAFE.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/mddanish/Vulnerable-OTP-Application/blob/master/LICENSE) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/mddanish/Vulnerable-OTP-Application/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
